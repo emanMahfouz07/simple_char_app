@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14326744664",
+    "firebase_url": "https://chat-app-26d08-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-app-26d08",
+    "storage_bucket": "chat-app-26d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14326744664:android:7f332fbc2777a1f38bac2d",
+        "android_client_info": {
+          "package_name": "com.example.scholar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14326744664-bn2odep1hjgflcutc3bua7r7t8rcpj5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABzxsvmuELRgasJCdyCtfEbD2t7jwNGlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14326744664-bn2odep1hjgflcutc3bua7r7t8rcpj5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14326744664-18tu6lrbegpce3jqtkd8uqu06upflcnj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scholar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
